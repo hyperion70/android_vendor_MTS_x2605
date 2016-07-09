@@ -257,9 +257,6 @@ PRODUCT_COPY_FILES += \
     vendor/MTS/x2605/proprietary/system/lib/libgpu_aux.so:system/lib/libgpu_aux.so \
     vendor/MTS/x2605/proprietary/system/lib/libgraphite2.so:system/lib/libgraphite2.so \
     vendor/MTS/x2605/proprietary/system/lib/libgui_ext.so:system/lib/libgui_ext.so \
-    vendor/MTS/x2605/proprietary/system/lib/libgybeauty.so:system/lib/libgybeauty.so \
-    vendor/MTS/x2605/proprietary/system/lib/libgybeauty420.so:system/lib/libgybeauty420.so \
-    vendor/MTS/x2605/proprietary/system/lib/libgybeauty422.so:system/lib/libgybeauty422.so \
     vendor/MTS/x2605/proprietary/system/lib/libhotknot.so:system/lib/libhotknot.so \
     vendor/MTS/x2605/proprietary/system/lib/libhotknot_vendor.so:system/lib/libhotknot_vendor.so \
     vendor/MTS/x2605/proprietary/system/lib/libhwm.so:system/lib/libhwm.so \
@@ -450,9 +447,6 @@ PRODUCT_COPY_FILES += \
     vendor/MTS/x2605/proprietary/system/lib64/libgpu_aux.so:system/lib64/libgpu_aux.so \
     vendor/MTS/x2605/proprietary/system/lib64/libgraphite2.so:system/lib64/libgraphite2.so \
     vendor/MTS/x2605/proprietary/system/lib64/libgui_ext.so:system/lib64/libgui_ext.so \
-    vendor/MTS/x2605/proprietary/system/lib64/libgybeauty.so:system/lib64/libgybeauty.so \
-    vendor/MTS/x2605/proprietary/system/lib64/libgybeauty420.so:system/lib64/libgybeauty420.so \
-    vendor/MTS/x2605/proprietary/system/lib64/libgybeauty422.so:system/lib64/libgybeauty422.so \
     vendor/MTS/x2605/proprietary/system/lib64/libhotknot.so:system/lib64/libhotknot.so \
     vendor/MTS/x2605/proprietary/system/lib64/libhotknot_vendor.so:system/lib64/libhotknot_vendor.so \
     vendor/MTS/x2605/proprietary/system/lib64/libhwm.so:system/lib64/libhwm.so \
